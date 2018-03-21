@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id          = "myBusinessCard"
+        version     = "1.0.0" >
+
+    <name>BusinessCard</name>
+    <description>My business card</description>
+    <author email="moniaa_s@op.pl">
+		Monika Stach
+	</author>
+	<platform name="android" />
+
+</widget>
